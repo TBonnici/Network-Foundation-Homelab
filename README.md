@@ -22,6 +22,7 @@ segmentation, inter-VLAN routing, and OSPF between two branch routers.
 | WAN link R1-R2 | 10.0.0.0/30 | — |
 
 ## Configuration
+! [Switch Configuration] (./)
 (this is where you add sections as you go — Switch Config, Router Config, OSPF, DHCP, etc.)
 
 ## Verification
