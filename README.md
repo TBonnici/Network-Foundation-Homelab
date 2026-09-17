@@ -27,6 +27,7 @@ segmentation, inter-VLAN routing, and OSPF between two branch routers.
 ! [Router Configuration](./routerreconfig.png)
 
 ## Verification
+! [Simulation Verification](./simulationimage.png)
 ! [Packet Capture](./packetcap.png)
 ! [Ping Test](./pingtestfrompc.png)
 ! [Router IP Route](./routeriproute.png)
