@@ -23,10 +23,13 @@ segmentation, inter-VLAN routing, and OSPF between two branch routers.
 
 ## Configuration
 ! [Switch Configuration](./switchconfig.png)
-(this is where you add sections as you go — Switch Config, Router Config, OSPF, DHCP, etc.)
+
+! [Router Configuration](./routerreconfig.png)
 
 ## Verification
-(ping tests, show commands, screenshots — add as completed)
+! [Packet Capture](./packetcap.png)
+! [Ping Test](./pingtestfrompc.png)
+! [Router IP Route](./routeriproute.png)
 
 ## What I Learned
 (fill in at the end — good for interviews, shows reflection)
