@@ -11,7 +11,7 @@ segmentation, inter-VLAN routing, and OSPF between two branch routers.
 - Verify connectivity and troubleshoot using simulation mode
 
 ## Topology
-(./topologyhomelab.png)
+! [Network Topology](./topologyhomelab.png)
 
 ## IP Addressing Plan
 | Segment | Network | VLAN |
