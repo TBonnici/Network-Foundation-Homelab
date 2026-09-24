@@ -30,7 +30,7 @@ segmentation, inter-VLAN routing, and OSPF between two branch routers.
 ![Simulation Verification](./simulationimage.png)
 ![Packet Capture](./packetcap.png)
 ![Ping Test](./pingtestfrompc.png)
-! [Router IP Route](./routeriproute.png)
+![Router IP Route](./routeriproute.png)
 
 ## What I Learned
 Building this lab reinforced networking fundamentals, but the real learning came 
