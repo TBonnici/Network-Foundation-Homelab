@@ -1,4 +1,4 @@
-# Network-Foundation-Homelab
+# Network-Foundation-Packet Tracer Lab
 
 ## Overview
 A 2-site enterprise network built in Cisco Packet Tracer demonstrating VLAN 
