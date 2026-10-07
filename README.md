@@ -24,7 +24,7 @@ segmentation, inter-VLAN routing, and OSPF between two branch routers.
 ## Configuration
 ![Switch Configuration](./switchconfig.png)
 
-![Router Configuration](./routerreconfig.png)
+![Router Configuration](./router reconfig.png)
 
 ## Verification
 ![Simulation Verification](./simulationimage.png)
